@@ -1,0 +1,15 @@
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ.csproj.AssemblyReference.cache
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\MainWindow.g.cs
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\App.g.cs
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ_MarkupCompile.cache
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ_MarkupCompile.lref
+D:\source\repos\ЭВМ\ЭВМ\bin\Debug\ЭВМ.exe.config
+D:\source\repos\ЭВМ\ЭВМ\bin\Debug\ЭВМ.exe
+D:\source\repos\ЭВМ\ЭВМ\bin\Debug\ЭВМ.pdb
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\MainWindow.baml
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ.g.resources
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ.Properties.Resources.resources
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ.csproj.GenerateResource.cache
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ.csproj.CoreCompileInputs.cache
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ.exe
+D:\source\repos\ЭВМ\ЭВМ\obj\Debug\ЭВМ.pdb
